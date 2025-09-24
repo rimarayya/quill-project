@@ -26,7 +26,7 @@ usability.
 1.  **Clone or download this repository**
 
     ```bash
-    git clone https://github.com/yourusername/quill-project.git
+    git clone https://github.com/rimarayya/quill-project
     ```
 
 2.  **Move to the project file**
