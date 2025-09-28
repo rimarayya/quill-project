@@ -5,7 +5,6 @@ register, log in, and create personal journal entries. It's built using
 **HTML, CSS, and static assets** with a focus on clean design and
 usability.
 
----
 
 ## 📂 Project Structure
 
@@ -19,7 +18,6 @@ usability.
     ├── images/               # Icons and illustrations
     └── .vscode/              # Editor settings (optional)
 
----
 
 ## 🚀 Getting Started
 
@@ -40,7 +38,6 @@ usability.
 That's it --- no server setup required since this is a static front-end
 project.
 
----
 
 ## ✨ Features
 
@@ -49,7 +46,6 @@ project.
 - Responsive styling with `queries.css`\
 - Custom icons and illustrations
 
----
 
 ## 🛠️ Technologies Used
 
@@ -57,13 +53,11 @@ project.
 - **CSS3** -- styling and responsive layout\
 - **SVG/PNG assets** -- icons and images
 
----
 
 ## 📸 Preview
 
 ![Quill](images/quill.png)
 
----
 
 ## 📌 Future Improvements
 
@@ -71,4 +65,3 @@ project.
 - Add authentication and session handling\
 - Enable editing/deleting journal entries
 
----
